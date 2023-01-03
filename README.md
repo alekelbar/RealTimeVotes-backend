@@ -28,6 +28,6 @@ Install dependencies
 Start the server
 
 ```bash
-  yarn run start
+  yarn run dev
 ```
 
